@@ -173,6 +173,22 @@ func main() {
 
 /* SECTION 2  */
 
+
+//HOW WOULD I WRITE UNIT TESTS
+
+/*  
+   >> FIRST TEST CASE 
+      I will try and pass 2 large bags in a bin, if it succeeds, the algorithm is falty
+      if it fails the algorithm pass this perticular test
+
+   >> SECOND TEST CASE
+      I will try and fit a small bag and a large bag in a bin. acceptable result should fail
+
+   >>> I will try and pass 3 small bags to a bin. acceptable result should be a failure.
+   
+*/
+
+
 //HOW DOES THE ALGORITHM PERFORM WHEN SCALED TO LARGE SIZE?
 /* 
         Scalability was considered when designing this algorithm, HashMap Data structure was used to implememt 
@@ -183,8 +199,6 @@ the Data Size.
 // BETTER DATASTRUCTURES 
 /* Prioritiy Queue can actually be used to manage the available space in the Bin
 
-
-// Each 
 
 
 

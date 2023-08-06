@@ -163,6 +163,11 @@ func main() {
 
 	var bag Bag = Retrieve(ticket); 
 	fmt.Println(bag);
+
+	var line Storage;
+	line = storage;
+
+	fmt.Println(line)
 	
 }
 
